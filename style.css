@@ -37,3 +37,27 @@ li {
     text-align: center;
     margin-left: 5px;
 }
+
+.col {
+    margin: 25px 15px;
+    background: #74b1d8;
+    min-height: 525px;
+}
+
+.col-4 {
+    margin: 25px 15px;
+    background: #74b1d8;
+    min-height: 525px;
+}
+
+img {
+    margin-top: 10px;
+}
+
+.dropdown-center {
+    margin-left: 10px;
+}
+
+#center-it {
+    margin-left: 65px;
+}
