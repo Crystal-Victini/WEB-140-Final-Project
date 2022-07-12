@@ -15,3 +15,25 @@ h1 {
     font-size: 4rem;
     padding-top: 35px;
 }
+
+#idk {
+    color: #fff5fa;
+    text-align: center;
+    margin-top: 5px;
+}
+
+ul {
+    list-style-position: inside;
+    list-style: none;
+}
+
+#linkl {
+    margin-right: 15px;
+}
+
+li {
+    width: 95%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 5px;
+}
